@@ -1,0 +1,40 @@
+body{
+   background-color:rgba(12, 37, 129, 0.888);
+}
+.img-rb{
+  width: 250px;
+   border-radius: 80px;
+}
+.img-gd{
+  width: 250px;
+   border-radius: 80px;
+}
+.img-bs{
+  width: 250px;
+}
+.img-msm{
+  width: 250px;
+}
+.img-msb{
+  width: 250px;
+   border-radius: 80px;
+}
+.games {
+text-align: center;
+color: rgb(133, 14, 14);
+font-size: 60px;
+}
+img {
+    width: 180px;
+   border-radius: 50px;
+}
+.AI {
+    font-size: larger;
+    color: rgba(99, 206, 37, 0.958);
+}
+.olievie{
+   font-size: large; 
+}
+.makeSalad{
+ color: rgba(99, 206, 37, 0.958);   
+}
